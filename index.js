@@ -83,7 +83,7 @@ Kai: PLease immediatly call emergency number which is - 113\n";
 
 
 client.on("messageCreate", function(message) {
-    if (message.channel.id === '987770700603465728' || message.channel.id === '987434204595888189' || message.channel.id === '987847172018036778') {
+    if (message.channel.id === '987770700603465728' || message.channel.id === '987434204595888189' || message.channel.id === '987797069026709584') {
         if (message.author.bot) return;
         prompt += `You: ${message.content}\n`;
         (async () => {
