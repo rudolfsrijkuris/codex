@@ -9,5 +9,7 @@ OPENAI_API_KEY="openAI_API_KEY"
 PREFIX="!"
 ```
 
-Next you need to run `npm install` in your terminal
-That's all now you can run this bot using `node .` in terminal
+Next you need to run `npm install` in your terminal. That's all now you can run this bot using `node .` in terminal.
+
+## How to use it
+You can chat with it, ask whatever you want. Also we created `!help` command to display suicide hotline numbers in Baltic states so you can also check that out.
